@@ -1,4 +1,4 @@
-![Image](https://github.com/Schuhgorgon0/Schuhgorgon0/blob/main/WhatsApp%20Bild%202024-11-20%20um%2014.20.46_af23b3c0.png)
+<!--![Image](https://github.com/Schuhgorgon0/Schuhgorgon0/blob/main/WhatsApp%20Bild%202024-11-20%20um%2014.20.46_af23b3c0.png)-->
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!--
