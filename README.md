@@ -1,4 +1,4 @@
-
+![Image](https://github.com/Schuhgorgon0/Schuhgorgon0/blob/main/WhatsApp%20Bild%202024-11-20%20um%2014.20.46_af23b3c0.png)
 
 <!--
 **Schuhgorgon0/Schuhgorgon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
