@@ -1,9 +1,12 @@
 <!--![Image](https://github.com/Schuhgorgon0/Schuhgorgon0/blob/main/WhatsApp%20Bild%202024-11-20%20um%2014.20.46_af23b3c0.png)-->
 
 
-![GitHub Snake](https://raw.githubusercontent.com/Schuhgorgon0/Schuhgorgon0/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Schuhgorgon0/Schuhgorgon0/output/github-snake-dark.svg?palette=github-dark" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Schuhgorgon0/Schuhgorgon0/output/github-snake.svg" />
+</picture>
 
-![GitHub Snake](https://raw.githubusercontent.com/Schuhgorgon0/Schuhgorgon0/output/github-contribution-grid-snake.svg)
+
 <!--
 **Schuhgorgon0/Schuhgorgon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
