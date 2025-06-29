@@ -2,6 +2,8 @@
 
 
 ![GitHub Snake](https://raw.githubusercontent.com/Schuhgorgon0/Schuhgorgon0/output/github-snake.svg)
+
+![GitHub Snake](https://raw.githubusercontent.com/Schuhgorgon0/Schuhgorgon0/output/github-contribution-grid-snake.svg)
 <!--
 **Schuhgorgon0/Schuhgorgon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
