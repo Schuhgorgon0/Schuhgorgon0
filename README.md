@@ -68,9 +68,6 @@
                                .?;??,*%%%*+:;,    ##  ,?@?;;;;;???;;??;;??@@@@@@@@@@??;;;;?@?;,##                       
                                *?@;??;:;;??:%          #*+.:;????;????;;?;@@@@@@??;;;;;??;.+#                           
 <pre/>
-<div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg0YTY0M245dndlczZ0eHY2dTVjZW01OW9yYmtydHA3cDgyNTc0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif" />
-</div>
-  
+
 
 </p>
