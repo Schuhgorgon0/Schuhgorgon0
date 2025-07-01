@@ -1,6 +1,7 @@
 <p align="center">
 
-<pre>       /^\/^\
+<pre>
+          /^\/^\
         _|__|  O|
 \/     /~     \_/ \
  \____|__________/  \
@@ -18,6 +19,6 @@
             ~-_           _-~          ~-_       _-~   
                ~--______-~                ~-___-~
 <pre/>
-  <img src="https://media.giphy.com/media/3o7aCVpIuQ1JgqkXtm/giphy.gif" width="220" alt="hello there" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg0YTY0M245dndlczZ0eHY2dTVjZW01OW9yYmtydHA3cDgyNTc0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif" />
 
 </p>
