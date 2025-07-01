@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/26gslVUMyMjiL2nVu/giphy.gif" width="200" alt="Schuhgorgon tanzt!">
 </p>
 
-<h1 align="center">👟 Willkommen bei Schuhgorgon0! 👟</h1>
+<h1 align="center"> Willkommen bei Schuhgorgon0! </h1>
 
 <p align="center">
   <b></b><br>
