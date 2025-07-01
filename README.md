@@ -7,8 +7,8 @@
 <h1 align="center">👟 Willkommen bei Schuhgorgon0! 👟</h1>
 
 <p align="center">
-  <b>Hier wird wild gecodet, getestet und vielleicht auch mal ein Schuh verloren.</b><br>
-  <i>Schuhe an und losgecodet!</i>
+  <b></b><br>
+  <i></i>
 </p>
 
 <p align="center">
